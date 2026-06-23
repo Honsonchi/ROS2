@@ -1,0 +1,44 @@
+[0.031s] Invoking command in '/home/user/ros2_ws/build/honson_chi': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/user/ros2_ws/src/honson_chi -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/honson_chi
+[0.272s] -- The C compiler identification is GNU 13.3.0
+[0.489s] -- The CXX compiler identification is GNU 13.3.0
+[0.536s] -- Detecting C compiler ABI info
+[0.722s] -- Detecting C compiler ABI info - done
+[0.722s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.722s] -- Detecting C compile features
+[0.723s] -- Detecting C compile features - done
+[0.744s] -- Detecting CXX compiler ABI info
+[0.925s] -- Detecting CXX compiler ABI info - done
+[0.938s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.938s] -- Detecting CXX compile features
+[0.939s] -- Detecting CXX compile features - done
+[0.967s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.211s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.351s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.465s] -- Found ament_lint_auto: 0.17.5 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.675s] -- Added test 'lint_cmake' to check CMake code style
+[1.678s] -- Added test 'xmllint' to check XML markup files
+[1.683s] -- Configuring done (1.6s)
+[1.687s] -- Generating done (0.0s)
+[1.690s] -- Build files have been written to: /home/user/ros2_ws/build/honson_chi
+[1.699s] Invoked command in '/home/user/ros2_ws/build/honson_chi' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/user/ros2_ws/src/honson_chi -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/honson_chi
+[1.702s] Invoking command in '/home/user/ros2_ws/build/honson_chi': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/user/ros2_ws/build/honson_chi -- -j4 -l4
+[1.767s] Invoked command in '/home/user/ros2_ws/build/honson_chi' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/user/ros2_ws/build/honson_chi -- -j4 -l4
+[1.784s] Invoking command in '/home/user/ros2_ws/build/honson_chi': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/user/ros2_ws/build/honson_chi
+[1.799s] -- Install configuration: ""
+[1.799s] -- Execute custom install script
+[1.800s] -- Symlinking: /home/user/ros2_ws/install/honson_chi/share/ament_index/resource_index/package_run_dependencies/honson_chi
+[1.814s] -- Symlinking: /home/user/ros2_ws/install/honson_chi/share/ament_index/resource_index/parent_prefix_path/honson_chi
+[1.828s] -- Symlinking: /home/user/ros2_ws/install/honson_chi/share/honson_chi/environment/ament_prefix_path.sh
+[1.842s] -- Symlinking: /home/user/ros2_ws/install/honson_chi/share/honson_chi/environment/ament_prefix_path.dsv
+[1.856s] -- Symlinking: /home/user/ros2_ws/install/honson_chi/share/honson_chi/environment/path.sh
+[1.870s] -- Symlinking: /home/user/ros2_ws/install/honson_chi/share/honson_chi/environment/path.dsv
+[1.883s] -- Symlinking: /home/user/ros2_ws/install/honson_chi/share/honson_chi/local_setup.bash
+[1.898s] -- Symlinking: /home/user/ros2_ws/install/honson_chi/share/honson_chi/local_setup.sh
+[1.912s] -- Symlinking: /home/user/ros2_ws/install/honson_chi/share/honson_chi/local_setup.zsh
+[1.924s] -- Symlinking: /home/user/ros2_ws/install/honson_chi/share/honson_chi/local_setup.dsv
+[1.939s] -- Symlinking: /home/user/ros2_ws/install/honson_chi/share/honson_chi/package.dsv
+[1.952s] -- Symlinking: /home/user/ros2_ws/install/honson_chi/share/ament_index/resource_index/packages/honson_chi
+[1.966s] -- Symlinking: /home/user/ros2_ws/install/honson_chi/share/honson_chi/cmake/honson_chiConfig.cmake
+[1.979s] -- Symlinking: /home/user/ros2_ws/install/honson_chi/share/honson_chi/cmake/honson_chiConfig-version.cmake
+[1.993s] -- Symlinking: /home/user/ros2_ws/install/honson_chi/share/honson_chi/package.xml
+[2.009s] Invoked command in '/home/user/ros2_ws/build/honson_chi' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/user/ros2_ws/build/honson_chi

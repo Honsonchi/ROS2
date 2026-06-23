@@ -1,0 +1,4 @@
+source;share/honson_chi/local_setup.bash
+source;share/honson_chi/local_setup.dsv
+source;share/honson_chi/local_setup.sh
+source;share/honson_chi/local_setup.zsh
